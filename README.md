@@ -3,7 +3,7 @@
 
 ## PAC
 
-https://raw.githubusercontent.com/chennqqi/gfwlist/master/fuck.pac
+https://raw.githubusercontent.com/chennqqi/autopac/master/fuck.pac
 
 # gfwlist
 ## The OFFICIAL gfwlist here!
