@@ -2799,6 +2799,7 @@ var domains = {
   "zengjinyan.org": 1, 
   "merit-times.com.tw": 1, 
   "google.cn": 1, 
+  "translate.google.cn": 0, 
   "hkheadline.com": 1, 
   "fdc64.org": 1, 
   "hideme.nl": 1, 
